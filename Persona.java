@@ -11,7 +11,7 @@ public class Persona {
 	}
 	
 	public String getNombre() {
-		return nombre;
+		return "El nombre es: "+nombre;
 	}
 	
 	public void setNombre(String nombre) {
